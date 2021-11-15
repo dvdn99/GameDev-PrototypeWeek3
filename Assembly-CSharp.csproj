@@ -37,6 +37,9 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\JhonMovement.cs" />
+     <Compile Include="Assets\Scripts\bulletScript.cs" />
+     <Compile Include="Assets\Scripts\cameraScript.cs" />
+     <Compile Include="Assets\Scripts\enemyScript.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:\2020.3.21f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
